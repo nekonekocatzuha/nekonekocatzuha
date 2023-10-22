@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning dance
 - 💞️ I’m looking to collaborate on J&K pop artist
 - Recently, I love Python!!
+- Kazuha is my idol!
 
 <!---
 nekonekocatzuha/nekonekocatzuha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
